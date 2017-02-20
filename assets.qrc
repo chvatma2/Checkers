@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/chess4.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+Game Logic
+	Possible moves (piece)
+	Belongs to active player
+	Move active piece (coordinates)
+
+Renderer
+	placeBoard(size, coordinates)
+	gameCoordinatesToRendererCoordinates(coordinates)
